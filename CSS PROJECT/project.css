@@ -1,0 +1,64 @@
+.parent{ background-color:chocolate;}
+.myNav{
+    position: fixed;
+    line-height: 70px;
+    width: 100%;
+    display: block;
+    background-color: white;
+}
+.myNav ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.myNav li a{
+    text-decoration: none;
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+    color:chocolate;
+    word-spacing:10px ;
+}
+.myNav li{
+    display: inline;
+    padding: 10%;
+}
+
+
+.myimg h1{
+text-decoration: solid wheat 5px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+.myimg img{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 65px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#contact{
+    padding: none;
+    width: 100%;
+}
+#contact label{
+    display: inline;
+    font-weight: bold;
+}
+#contact input{
+    height: 35px;
+    width: 90%;
+    padding: 10px;
+    background-color: ;
+    border: 2px solid white;
+    margin: 5px 0px 20px 0px;
+    border-radius: 5px;
+
+}
+.id input{
+    diplay: inline;
+}
